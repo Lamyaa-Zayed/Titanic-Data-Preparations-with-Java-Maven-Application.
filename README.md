@@ -1,0 +1,2 @@
+# Titanic-Data-Preparations-with-Java-Maven-Application.
+load the Titanic data set provided as a csv file • Using joinery and Tablesaw perform some data exploration activities such as getting information about the data (min, max, standard deviation, etc.) • Create 2 DataFrame Objects and try to join, merge, add columns of specific datatypes to both DataFrames (perform these activities using both libraries)
